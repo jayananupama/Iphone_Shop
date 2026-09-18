@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta
         name="description"
-        content="iShop — the considered way to buy Apple."
+        content="iShop  the considered way to buy Apple."
     >
     <title>iShop — Apple, considered.</title>
 
